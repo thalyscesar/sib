@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\bin\Debug\netcoreapp3.1\Sib.Cadastros.Domain.deps.json
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\bin\Debug\netcoreapp3.1\Sib.Cadastros.Domain.dll
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\bin\Debug\netcoreapp3.1\Sib.Cadastros.Domain.pdb
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\obj\Debug\netcoreapp3.1\Sib.Cadastros.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\obj\Debug\netcoreapp3.1\Sib.Cadastros.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\obj\Debug\netcoreapp3.1\Sib.Cadastros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\obj\Debug\netcoreapp3.1\Sib.Cadastros.Domain.dll
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\obj\Debug\netcoreapp3.1\Sib.Cadastros.Domain.pdb
+C:\Users\User\source\repos\Sib.Api\Sib.Cadastros.Domain\obj\Debug\netcoreapp3.1\Sib.Cadastros.Domain.csprojAssemblyReference.cache
